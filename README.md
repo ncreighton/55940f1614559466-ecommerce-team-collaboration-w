@@ -1,0 +1,2 @@
+# 55940f1614559466-ecommerce-team-collaboration-w
+e-commerce operators and online store owners waste hours on manually copying data between apps and rebuilding the same process every time. This fixes that.  Connects to 400+ apps via n8n's built-in integrations — no custom code needed. Built for production: error handling, retry logic, and failure notifications included.  ## What's Included  - Ecom
